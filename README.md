@@ -1,6 +1,7 @@
 # RedWineQuality
 This datasets is related to red variants of the Portuguese "Vinho Verde" wine. 
 The datasets can be viewed as classification or regression tasks. The classes are ordered and not balanced (e.g. there are much more normal wines than excellent or poor ones).
+
 Input variables (based on physicochemical tests):
 1 - fixed acidity
 2 - volatile acidity
@@ -13,6 +14,7 @@ Input variables (based on physicochemical tests):
 9 - pH
 10 - sulphates
 11 - alcohol
+
 Output variable (based on sensory data):
 12 - quality (score between 0 and 10)
 If quality is 7 or higher it is classified as 1 and the remainder as 0.
