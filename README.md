@@ -20,4 +20,4 @@ Output variable (based on sensory data):
 If quality is 7 or higher it is classified as 1 and the remainder as 0.
 
 The algorithm used is Decision Tree.
-Accuracy obtained: 88.5%
+Accuracy obtained: 90.25%
